@@ -28,7 +28,7 @@ public class Menu {
             ExchangeRate rates = apiClient.fetchExchangeRates();
             List<String> supportedCurrencies = SupportedCurrencies.CURRENCIES;
 
-            System.out.println("=== Bienvenido al Conversor de Monedas ===");
+            System.out.println("*** Bienvenido al Conversor de Monedas ***");
             while (true) {
                 System.out.println("\nSeleccione una opción:");
                 System.out.println("1. Ver lista de monedas");
