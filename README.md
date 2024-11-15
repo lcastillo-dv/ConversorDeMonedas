@@ -1,7 +1,7 @@
 
-# 🌍 Conversor de Monedas Multidivisa
+# 🌍 Conversor de Monedas
 
-¡Bienvenido a nuestro proyecto! Este es un sencillo pero útil **conversor de monedas** que permite convertir montos en USD a monedas de Latinoamérica 🌎 y registrar un historial de conversiones.
+¡Bienvenido a mi proyecto! Este es un sencillo pero útil **conversor de monedas** que permite convertir montos en USD a monedas de Latinoamérica 🌎 y registrar un historial de conversiones.
 
 ## 🚀 ¿Qué hace este proyecto?
 
@@ -124,4 +124,4 @@ Este proyecto es de código abierto y está disponible bajo la [licencia MIT](ht
 
 ---
 
-¡Gracias por usar el Conversor de Monedas! Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarnos. 😊
+¡Gracias por usar el Conversor de Monedas! Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarme. 😊
